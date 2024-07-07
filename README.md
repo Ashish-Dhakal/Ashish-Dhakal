@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashish-Dhakal
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently working as Laravel Developer at Skybase Innovation
+- 🌱 I’m a Laravel Developer
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
