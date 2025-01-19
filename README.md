@@ -1,13 +1,13 @@
-# Hi, I'm [Ashish Dhakal]! 👋
+# Hi, I'm Ashish Dhakal! 👋
 
 Welcome to my GitHub profile! I'm a **full-stack developer** passionate about building robust, user-friendly, and impactful web and mobile applications. My journey revolves around Laravel, Flutter, and creating seamless solutions for real-world challenges.
-
+<!--
 ---
 
 ## 🚀 What I Do  
 - **Web Development:**  
   Specializing in **Laravel**, with expertise in building feature-rich web applications like **Ecommerce**(ecommerce platform) , **DocBook** (appointment booking) and **Mock Master** (education platform).
-  <!--I also craft **Web Application** for clients in the USA.  -->
+I also craft **Web Application** for clients in the USA. 
 
 - **Mobile Development:**  
   Working on **Flutter** apps, including a **student resource app** tailored for university users, providing semester-wise materials.  
@@ -58,3 +58,4 @@ An education platform designed for competitive exams. Key features:
 - [Twitter](#) *(Add your Twitter handle)*  
 
 Feel free to explore my repositories and reach out for collaborations, suggestions, or just to say hi! 😊  
+-->
