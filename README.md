@@ -1,83 +1,59 @@
-# 👋 Hey there! I'm Ashish Dhakal  
+# Hi, I'm [Ashish Dhakal]! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)  
-
----
-
-### 🚀 About Me  
-I'm a passionate **Full-Stack Developer** who loves transforming ideas into impactful digital experiences. Whether it's creating sleek web apps, developing mobile solutions, or enhancing SEO for websites, I strive to deliver top-notch results!  
-
-### 🌟 My Current Focus  
-- Building **Mock Master**, an education platform for competitive exam preparation.  
-- Developing a **Flutter app** for students with semester-wise resources.  
-- Learning **.NET frameworks** for web development.  
+Welcome to my GitHub profile! I'm a **full-stack developer** passionate about building robust, user-friendly, and impactful web and mobile applications. My journey revolves around Laravel, Flutter, and creating seamless solutions for real-world challenges.
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages**:  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
+## 🚀 What I Do  
+- **Web Development:**  
+  Specializing in **Laravel**, with expertise in building feature-rich web applications like **DocBook** (appointment booking) and **Mock Master** (education platform). I also craft **SEO-friendly single-page websites** for clients in the USA.  
 
-**Frameworks & Tools**:  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
-![Filament](https://img.shields.io/badge/-Filament-43A047?logo=data&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+- **Mobile Development:**  
+  Working on **Flutter** apps, including a **student resource app** tailored for university users, providing semester-wise materials.  
 
-**Other Tools**:  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
-![eSewa](https://img.shields.io/badge/-eSewa-03C75A?logo=money&logoColor=white)  
+- **Dashboard Solutions:**  
+  Experienced with **Filament Dashboard** and **Spatie Laravel-Permission**, I build powerful admin panels for data and analytics management.  
+
+- **Competitive Exam Platforms:**  
+  Developed platforms like **Mock Master**, where students access notes, documents, and tests to prepare for exams like Loksewa.  
 
 ---
 
-## 📌 Featured Projects  
+## 🔧 Tools and Technologies  
+- **Languages:** PHP, JavaScript, Dart  
+- **Frameworks:** Laravel, Flutter, Vue 3 (beginner)  
+- **Databases:** MySQL  
+- **Web Tools:** Filament Dashboard, eSewa payment integration  
+- **Learning:** .NET and its web frameworks  
+
+---
+
+## 🌟 Featured Projects  
 ### **DocBook** 🩺  
-**Tech Stack**: Laravel, MySQL, eSewa  
-A robust appointment booking system for doctors and patients.  
-
-- **Features**:  
-  - Admin-managed doctor profiles and user accounts  
-  - Appointment reminders  
-  - Integrated analytics dashboard  
-  - eSewa payment gateway  
-
-[🔗 View Project](#) *(Add your project link)*  
+An appointment booking system for doctors and patients, with features like:  
+- Admin and user roles  
+- eSewa payment integration  
+- Appointment reminders  
+- Analytics dashboard  
 
 ### **Mock Master** 📚  
-**Tech Stack**: Laravel, MySQL  
-An education platform for competitive exams like Loksewa.  
-
-- **Features**:  
-  - Test-taking with detailed analytics and results  
-  - Admin-managed courses, tests, and documents  
-  - Notes and resources for Grades 1-12, bachelor's, and master's levels  
-
-[🔗 View Project](#) *(Add your project link)*  
+An education platform designed for competitive exams. Key features:  
+- Test-taking functionality with analytics  
+- Admin-managed courses, tests, and documents  
+- Notes and documents for various exams  
 
 ---
 
-## 🌱 What I’m Learning  
-- **.NET Frameworks**: Exploring new tools for web development  
-- **Vue 3**: Diving deeper into frontend development  
+## 🛠 Current Focus  
+- Enhancing **Mock Master** to provide richer analytics and expand document resources.  
+- Learning **.NET** to explore new web development opportunities.  
+- Building a **Flutter-based app** for university students in North America.  
 
 ---
 
-## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+## 🌐 Let's Connect!  
+- [Portfolio](#) *(ashish-dhakal.com.np)*  
+- [LinkedIn](#) *(Add your LinkedIn profile)*  
+- [Twitter](#) *(Add your Twitter handle)*  
 
----
-
-## 🔗 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](your-portfolio-link)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin-link)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-link)  
-
----
-
-✨ Thanks for stopping by! Feel free to explore my repositories and connect for collaborations. Let's build something amazing together!  
+Feel free to explore my repositories and reach out for collaborations, suggestions, or just to say hi! 😊  
