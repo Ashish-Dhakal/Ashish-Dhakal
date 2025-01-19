@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm a **full-stack developer** passionate about bu
 
 ## 🚀 What I Do  
 - **Web Development:**  
-  Specializing in **Laravel**, with expertise in building feature-rich web applications like **DocBook** (appointment booking) and **Mock Master** (education platform). I also craft **SEO-friendly single-page websites** for clients in the USA.  
+  Specializing in **Laravel**, with expertise in building feature-rich web applications like **Ecommerce**(ecommerce platform) , **DocBook** (appointment booking) and **Mock Master** (education platform).
+  <!--I also craft **Web Application** for clients in the USA.  -->
 
 - **Mobile Development:**  
   Working on **Flutter** apps, including a **student resource app** tailored for university users, providing semester-wise materials.  
@@ -21,7 +22,7 @@ Welcome to my GitHub profile! I'm a **full-stack developer** passionate about bu
 
 ## 🔧 Tools and Technologies  
 - **Languages:** PHP, JavaScript, Dart  
-- **Frameworks:** Laravel, Flutter, Vue 3 (beginner)  
+- **Frameworks:** Laravel, Flutter, Vue 3
 - **Databases:** MySQL  
 - **Web Tools:** Filament Dashboard, eSewa payment integration  
 - **Learning:** .NET and its web frameworks  
