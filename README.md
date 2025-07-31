@@ -1,61 +1,55 @@
-# Hi, I'm Ashish Dhakal! 👋
+# 👋 Hi, I'm Ashish Dhakal
 
-Welcome to my GitHub profile! I'm a **full-stack developer** passionate about building robust, user-friendly, and impactful web and mobile applications. My journey revolves around Laravel, Flutter, and creating seamless solutions for real-world challenges.
-<!--
----
-
-## 🚀 What I Do  
-- **Web Development:**  
-  Specializing in **Laravel**, with expertise in building feature-rich web applications like **Ecommerce**(ecommerce platform) , **DocBook** (appointment booking) and **Mock Master** (education platform).
-I also craft **Web Application** for clients in the USA. 
-
-- **Mobile Development:**  
-  Working on **Flutter** apps, including a **student resource app** tailored for university users, providing semester-wise materials.  
-
-- **Dashboard Solutions:**  
-  Experienced with **Filament Dashboard** and **Spatie Laravel-Permission**, I build powerful admin panels for data and analytics management.  
-
-- **Competitive Exam Platforms:**  
-  Developed platforms like **Mock Master**, where students access notes, documents, and tests to prepare for exams like Loksewa.  
+I'm a passionate full-stack developer with **3+ years of experience** building robust, scalable, and user-focused web and mobile applications. I specialize in **Laravel**, **Livewire**, **Filament**, **Tailwind CSS**, and **Flutter**, and I'm always excited to bring ideas to life.
 
 ---
 
-## 🔧 Tools and Technologies  
-- **Languages:** PHP, JavaScript, Dart  
-- **Frameworks:** Laravel, Flutter, Vue 3
-- **Databases:** MySQL  
-- **Web Tools:** Filament Dashboard, eSewa payment integration  
-- **Learning:** .NET and its web frameworks  
+## 🔧 Tech Stack & Tools
+
+- **Backend:** Laravel, Livewire, REST APIs, Spatie Permissions
+- **Frontend:** Blade, Alpine.js, Tailwind CSS, Vue 3 (beginner)
+- **Mobile:** Flutter (iOS + Android)
+- **Database:** MySQL, PostgreSQL
+- **DevOps:** Docker, GitHub Actions, Bitbucket Pipelines, CI/CD
+- **Cloud & Infra:** DigitalOcean, Cloudflare R2
+- **Others:** AdminLTE, Cropper.js, SEO Optimization, Pusher, eSewa Integration
 
 ---
 
-## 🌟 Featured Projects  
-### **DocBook** 🩺  
-An appointment booking system for doctors and patients, with features like:  
-- Admin and user roles  
-- eSewa payment integration  
-- Appointment reminders  
-- Analytics dashboard  
+## 🧑‍💼 Work Experience
 
-### **Mock Master** 📚  
-An education platform designed for competitive exams. Key features:  
-- Test-taking functionality with analytics  
-- Admin-managed courses, tests, and documents  
-- Notes and documents for various exams  
+- 🔹 **Skybase Innovation** – Developer  
+- 🔹 **Firefly Tech** – Full-stack Developer  
+- 🔹 **Multidynamic** *(Current)* – Laravel & Flutter Developer  
 
 ---
 
-## 🛠 Current Focus  
-- Enhancing **Mock Master** to provide richer analytics and expand document resources.  
-- Learning **.NET** to explore new web development opportunities.  
-- Building a **Flutter-based app** for university students in North America.  
+## 🚀 Live Projects
+
+- [🔗 Padandas.com](https://padandas.com) – Online Education Learning Platform  
+- [🔗 Bookinghub.lk](https://bookinghub.lk) – Online Hotel Booking Platform  
+- [🔗 Perfexcargo.com](https://perfexcargo.com) – Online Cargo Tracking System  
 
 ---
 
-## 🌐 Let's Connect!  
-- [Portfolio](#) *(ashish-dhakal.com.np)*  
-- [LinkedIn](#) *(Add your LinkedIn profile)*  
-- [Twitter](#) *(Add your Twitter handle)*  
+## 💡 Let's Collaborate
 
-Feel free to explore my repositories and reach out for collaborations, suggestions, or just to say hi! 😊  
--->
+I **love building things** that make an impact. Whether it's a passion project or a client product, I'm always up for a new challenge. I'm also **open to freelance opportunities** and remote collaborations.
+
+> ⚡️ If you’ve got an idea or need a developer for your next project,  
+> **Let’s connect via:**
+
+- 📧 Email: [ashish.dev.work@gmail.com](mailto:ashish.dev.work@gmail.com)  
+- 📱 WhatsApp: [+977-9863379537](https://wa.me/9779863379537)
+
+---
+
+## 📫 Let's Connect
+
+<!-- - 🌐 Portfolio: Coming soon...-->
+- 📧 Email: [ashishdhakal433@gmail.com](mailto:ashishdhakal433@gmail.com)
+- 💼 LinkedIn:(https://www.linkedin.com/in/dhakal09/)
+
+---
+
+Thanks for stopping by! 🙌
