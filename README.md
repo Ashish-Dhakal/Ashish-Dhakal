@@ -20,7 +20,7 @@ I'm a passionate full-stack developer with **3+ years of experience** building r
 
 - 🔹 **Skybase Innovation** – Developer  
 - 🔹 **Firefly Tech** – Full-stack Developer  
-- 🔹 **Multidynamic** *(Current)* – Laravel & Flutter Developer  
+- 🔹 **Multidynamic** *(Current)* – Full-stack Developer   
 
 ---
 
