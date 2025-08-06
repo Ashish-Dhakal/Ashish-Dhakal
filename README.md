@@ -39,7 +39,7 @@ I **love building things** that make an impact. Whether it's a passion project o
 > ⚡️ If you’ve got an idea or need a developer for your next project,  
 > **Let’s connect via:**
 
-- 📧 Email: [ashish.dev.work@gmail.com](mailto:ashish.dev.work@gmail.com)  
+- 📧 Email: [ashishdhakal433@gmail.com](mailto:ashishdhakal433@gmail.com)  
 - 📱 WhatsApp: [+977-9863379537](https://wa.me/9779863379537)
 
 ---
